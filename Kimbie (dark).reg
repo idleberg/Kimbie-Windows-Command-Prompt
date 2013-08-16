@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Kimbie (https://github.com/chriskempson/base16)
+; Scheme: Jan T. Sott
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:000f1a22
+"ColorTable01"=dword:00b0b18a
+"ColorTable02"=dword:004a9b88
+"ColorTable03"=dword:001e4018
+"ColorTable04"=dword:005839dc
+"ColorTable05"=dword:006a6798
+"ColorTable06"=dword:00329af7
+"ColorTable07"=dword:0086afd3
+"ColorTable08"=dword:004c7aa5
+"ColorTable09"=dword:002b455e
+"ColorTable10"=dword:003d6184
+"ColorTable11"=dword:004c7aa5
+"ColorTable12"=dword:00adbad6
+"ColorTable13"=dword:0086afd3
+"ColorTable14"=dword:00a5c6e4
+"ColorTable15"=dword:00d4ebfb
