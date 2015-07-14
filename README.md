@@ -2,7 +2,7 @@
 
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), the second album by British band Mount Kimbie.
 
-![Animated Screenshot](https://raw.github.com/idleberg/Kimbie-Windows-Command-Prompt/master/images/screenshot.gif)
+![Preview](https://raw.github.com/idleberg/Kimbie-Windows-Command-Prompt/master/images/screenshot.gif)
 
 ## Installation
 
